@@ -1,0 +1,5 @@
+The correct answer for this problem is c) Prints : Parent's method2()
+                                                   Parent's method1()
+                                                   
+Since we call the method 1 which is a private method in method2 which is a public
+method , so that'why we can access both method1 and method2 by calling method2().
